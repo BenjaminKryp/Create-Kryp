@@ -1,3 +1,45 @@
-Links are automatically detected: https://modrinth.com/
+📢 Update v0.0.16
+⚠️ Important Warning
+any version  above v0.0.13 is NOT compatible with previous versions due to world generation mod changes.
+If you update an old world, it will corrupt your saves. Please create a new world when updating.
+(This is the last time I promise… hopefully.)
 
-[Markdown Links](https://youtu.be/v1POP-m76ac) are supported.
+Fixes some stuff with world gen in the end nether and Twilight Forest i recommend to delete old end nether and Twilight Forest dimension files.
+
+📝 About This Update
+Updated forge from 47.4.6 to 47.4.8
+Fixed particalls and stuff like water splace looking transparent or invisible in first-person with Euphoria Patches shaders.
+More entity's icons show on minimap.
+you now need a calender to see more info abote the current season.
+World icon now changes if world is left by clicking the exit world button.
+New player animations.
+Added new nether ambient sound.
+
+➕ Added
+Bridging Mod
+GPUBooster
+Palladium
+ToadLib
+Icon Xaero's X FreshAnimations
+NaNny Reforked
+Visceral Heap Fix
+Better End Fix
+Sound Controller
+Fresh Moves
+Twilight Forest Cave Fix
+Rename Compat Project
+Supplementaries Compat
+Armor Trims Compat
+ichphilipps endcity better end
+
+🗑️ Removed
+NaNny 
+
+🔧 Changes
+Tweaked some shader settings.
+Tweaked some settings for subtle effects.
+Changed some settings for seasonhud you now need a calendar to see more info abote the current season.
+Changed Leaf Culling Mode from Solid Aggressive to hollow.
+
+
+Next update will release after Complementary Shaders update to r5.6 and Euphoria Patches to 1.7 which should release some time in October.
