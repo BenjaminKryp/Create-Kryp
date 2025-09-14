@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "requiresMpuc": 14,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "v0.0.16r",
+      "releasedAt": 1696299585000
+    }
+  ]
+}
