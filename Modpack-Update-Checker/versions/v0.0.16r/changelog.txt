@@ -21,46 +21,46 @@ You now need a calendar to see detailed seasonal info.
 
 ➕ Added
 
-AsyncParticles
-Armor Trims Compat
-Better BetterX
-Better Days
-Better End Fix
-Bridging Mod
-Fast Async World Save
-Fresh Moves
-ichphilipps EndCity Better End
-Icon Xaero's × Fresh Animations
-MAtmos ambient sound
-Modded Omelet
-Modpack Update Checker
-NaNny Reforked
-Rename Compat Project
-Serene Seasons Plus
-Sound Controller
-Supplementaries Compat
-TCT Core
-Towers of the Wild Modded
-Twilight Forest Cave Fix
-Visceral Heap Fix
+[AsyncParticles](https://www.curseforge.com/minecraft/mc-mods/asyncparticles)
+[Armor Trims Compat](https://www.curseforge.com/minecraft/texture-packs/armor-trim-compats)
+[Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx)
+[Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
+[Better End Fix]
+[Bridging Mod]
+[Fast Async World Save]
+[Fresh Moves]
+[ichphilipps EndCity Better End]
+[Icon Xaero's × Fresh Animations]
+[MAtmos ambient sound]
+[Modded Omelet]
+[Modpack Update Checker]
+[NaNny Reforked]
+[Rename Compat Project]
+[Serene Seasons Plus]
+[Sound Controller]
+[Supplementaries Compat]
+[TCT Core]
+[Towers of the Wild Modded]
+[Twilight Forest Cave Fix]
+[Visceral Heap Fix]
 
 🗑️ Removed
 
-AI Improvements
-Bocchium
-Easier Sleeping
-NaNny
-Not Enough Crashes
-Saturn
-Sparse Structures
+[AI Improvements]
+[Bocchium]
+[Easier Sleeping]
+[NaNny]
+[Not Enough Crashes]
+[Saturn]
+[Sparse Structures]
 
 🔧 Changes
 
-Adjusted SeasonHUD → you now need a calendar to see more season details.
+Adjusted [SeasonHUD] → you now need a calendar to see more season details.
 Changed Leaf Culling Mode from Solid Aggressive → Hollow.
 Disabled allowThreadedFeatures (caused world gen crashes in the End, possibly other dimensions). ⚠️ World gen is almost 2x slower.
-Tweaked settings for Essential Mod.
-Tweaked settings for Subtle Effects.
+Tweaked settings for [Essential Mod].
+Tweaked settings for [Subtle Effects].
 Tweaked shader settings.
 
 📅 Next Update
