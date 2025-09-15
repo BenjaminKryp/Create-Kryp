@@ -1,45 +1,67 @@
 📢 Update v0.0.16
+
 ⚠️ Important Warning
-any version  above v0.0.13 is NOT compatible with previous versions due to world generation mod changes.
+Any version above v0.0.13 is NOT compatible with previous worlds due to world generation mod changes.
 If you update an old world, it will corrupt your saves. Please create a new world when updating.
 (This is the last time I promise… hopefully.)
 
-Fixes some stuff with world gen in the end nether and Twilight Forest i recommend to delete old end nether and Twilight Forest dimension files.
+This update fixes several issues with world generation in the End, Nether, and Twilight Forest.
+👉 I recommend deleting your old End, Nether, and Twilight Forest dimension files for a smoother experience.
 
 📝 About This Update
-Updated forge from 47.4.6 to 47.4.8
-Fixed particalls and stuff like water splace looking transparent or invisible in first-person with Euphoria Patches shaders.
-More entity's icons show on minimap.
-you now need a calender to see more info abote the current season.
-World icon now changes if world is left by clicking the exit world button.
-New player animations.
-Added new nether ambient sound.
+
+Added new Nether ambient sounds.
+Added new player animations.
+Fixed particles (like water splashes) appearing transparent/invisible in first-person with Euphoria Patches shaders.
+Fixed world gen crash in the End (possibly other dimensions too). ⚠️ Because of this, world gen is almost 2x slower.
+More entity icons now show on the minimap.
+Updated Forge: 47.4.6 → 47.4.8.
+World icon now updates properly when leaving via Exit World button.
+You now need a calendar to see detailed seasonal info.
 
 ➕ Added
-Bridging Mod
-GPUBooster
-Palladium
-ToadLib
-Icon Xaero's X FreshAnimations
-NaNny Reforked
-Visceral Heap Fix
-Better End Fix
-Sound Controller
-Fresh Moves
-Twilight Forest Cave Fix
-Rename Compat Project
-Supplementaries Compat
+
+AsyncParticles
 Armor Trims Compat
-ichphilipps endcity better end
+Better BetterX
+Better Days
+Better End Fix
+Bridging Mod
+Fast Async World Save
+Fresh Moves
+ichphilipps EndCity Better End
+Icon Xaero's × Fresh Animations
+MAtmos ambient sound
+Modded Omelet
+Modpack Update Checker
+NaNny Reforked
+Rename Compat Project
+Serene Seasons Plus
+Sound Controller
+Supplementaries Compat
+TCT Core
+Towers of the Wild Modded
+Twilight Forest Cave Fix
+Visceral Heap Fix
 
 🗑️ Removed
-NaNny 
+
+AI Improvements
+Bocchium
+Easier Sleeping
+NaNny
+Not Enough Crashes
+Saturn
+Sparse Structures
 
 🔧 Changes
-Tweaked some shader settings.
-Tweaked some settings for subtle effects.
-Changed some settings for seasonhud you now need a calendar to see more info abote the current season.
-Changed Leaf Culling Mode from Solid Aggressive to hollow.
 
+Adjusted SeasonHUD → you now need a calendar to see more season details.
+Changed Leaf Culling Mode from Solid Aggressive → Hollow.
+Disabled allowThreadedFeatures (caused world gen crashes in the End, possibly other dimensions). ⚠️ World gen is almost 2x slower.
+Tweaked settings for Essential Mod.
+Tweaked settings for Subtle Effects.
+Tweaked shader settings.
 
-Next update will release after Complementary Shaders update to r5.6 and Euphoria Patches to 1.7 which should release some time in October.
+📅 Next Update
+Planned after Complementary Shaders r5.6 and Euphoria Patches 1.7, which should release sometime in October.
