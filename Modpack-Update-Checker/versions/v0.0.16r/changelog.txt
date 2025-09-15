@@ -25,42 +25,42 @@ You now need a calendar to see detailed seasonal info.
 [Armor Trims Compat](https://www.curseforge.com/minecraft/texture-packs/armor-trim-compats)
 [Better BetterX](https://www.curseforge.com/minecraft/texture-packs/better-betterx)
 [Better Days](https://www.curseforge.com/minecraft/mc-mods/betterdays)
-[Better End Fix]
-[Bridging Mod]
-[Fast Async World Save]
-[Fresh Moves]
-[ichphilipps EndCity Better End]
-[Icon Xaero's × Fresh Animations]
-[MAtmos ambient sound]
-[Modded Omelet]
-[Modpack Update Checker]
-[NaNny Reforked]
-[Rename Compat Project]
-[Serene Seasons Plus]
-[Sound Controller]
-[Supplementaries Compat]
-[TCT Core]
-[Towers of the Wild Modded]
-[Twilight Forest Cave Fix]
-[Visceral Heap Fix]
+[Better End Fix](https://www.curseforge.com/minecraft/mc-mods/better-end-fix)
+[Bridging Mod](https://www.curseforge.com/minecraft/mc-mods/bridging-mod)
+[Fast Async World Save](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric)
+[Fresh Moves](https://www.curseforge.com/minecraft/texture-packs/fresh-moves)
+[ichphilipps EndCity Better End](https://www.curseforge.com/minecraft/texture-packs/better-end-city-for-better-end/files/all?page=1&pageSize=20)
+[Icon Xaero's × Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/icon-xaeros-x-freshanimations)
+[MAtmos ambient sound](https://www.curseforge.com/minecraft/mc-mods/matmos2)
+[Modded Omelet](https://www.curseforge.com/minecraft/texture-packs/modded-omelet)
+[Modpack Update Checker](https://www.curseforge.com/minecraft/mc-mods/modpack-update-checker)
+[NaNny Reforked](https://www.curseforge.com/minecraft/mc-mods/nanny-reforked)
+[Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp)
+[Serene Seasons Plus](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-plus)
+[Sound Controller](https://modrinth.com/mod/sound-controller)
+[Supplementaries Compat](https://www.curseforge.com/minecraft/data-packs/supplementaries-compat)
+[TCT Core](https://www.curseforge.com/minecraft/mc-mods/tct-core)
+[Towers of the Wild Modded](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-modded)
+[Twilight Forest Cave Fix](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-cave-fix)
+[Visceral Heap Fix](https://www.curseforge.com/minecraft/mc-mods/visceral-heap-fix)
 
 🗑️ Removed
 
-[AI Improvements]
-[Bocchium]
-[Easier Sleeping]
-[NaNny]
-[Not Enough Crashes]
-[Saturn]
-[Sparse Structures]
+[AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+[Bocchium](https://www.curseforge.com/minecraft/mc-mods/bocchium)
+[Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
+[NaNny](https://www.curseforge.com/minecraft/mc-mods/nanny)
+[Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+[Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn)
+[Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures)
 
 🔧 Changes
 
-Adjusted [SeasonHUD] → you now need a calendar to see more season details.
+Adjusted [SeasonHUD](https://www.curseforge.com/minecraft/mc-mods/seasonhud) → you now need a calendar to see more season details.
 Changed Leaf Culling Mode from Solid Aggressive → Hollow.
 Disabled allowThreadedFeatures (caused world gen crashes in the End, possibly other dimensions). ⚠️ World gen is almost 2x slower.
-Tweaked settings for [Essential Mod].
-Tweaked settings for [Subtle Effects].
+Tweaked settings for [Essential Mod](https://www.curseforge.com/minecraft/mc-mods/essential-mod).
+Tweaked settings for [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects).
 Tweaked shader settings.
 
 📅 Next Update
