@@ -12,7 +12,7 @@ This update fixes several issues with world generation in the End, Nether, and 
 
 Added new Nether ambient sounds.
 Added new player animations.
-Fixed particles (like water splashes) appearing transparent/invisible in first-person with Euphoria Patches shaders.
+Fixed particles (like water splashes) appearing transparent/invisible in first-person with [Euphoria Patches shaders](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches).
 Fixed world gen crash in the End (possibly other dimensions too). ⚠️ Because of this, world gen is almost 2x slower.
 More entity icons now show on the minimap.
 Updated Forge: 47.4.6 → 47.4.8.
