@@ -1,0 +1,53 @@
+📢 Update v0.0.17
+
+⚠️ Important Warning
+Any version above v0.0.13 is NOT compatible with previous worlds due to world generation mod changes.
+If you update an old world, it will corrupt your saves. Please create a new world when updating.
+(This is the last time I promise… hopefully.)
+
+📝 About This Update
+
+Fixed crash when dying with a cape or loading a corpse with a cape (Entity Model Features downgraded from 2.4.1 → 2.2).
+More mobs can now be put into jars and cages.
+New rain visuals and sounds.
+Nights with shaders are darker.
+Reduced spawn rates of Dragon Roosts and Dragon Skeletons.
+Some textures now connect properly.
+Sunrises and sunsets are more red/orange.
+
+➕ Added
+
+Continuity
+Cool Rain Reforged
+DnT Pillager Outpost Overhaul
+Guard Villagers
+Illage and Spillage: Respillaged
+Illage and Spell-age: Iron’s Spells Addon
+Illager Invasion
+Koopa’s Critters
+Mischief Illagers
+Particle Rain
+Sparse Structures
+
+🗑️ Removed
+(Nothing this time)
+
+🔧 Changes
+
+Ice and Fire config:
+Dragon Roost chance: 360 → 250
+Dragon Skeleton chance: 300 → 220
+JEI:
+Recipes and uses can now be viewed by right-clicking instead of pressing U.
+Shaders:
+Night Time Lighting Intensity Multiplier: 1.00 → 0.25 (much darker with shaders).
+Sunrise/Sunset Red Multiplier: 1.00 → 1.50 (both Light Color + Atmosphere multipliers).
+Supplementaries config:
+jar_auto_detect = true
+cage_allow_all_babies = true
+cage_auto_detect = true
+persistent_mobs = true
+→ allows more mobs in jars/cages.
+
+📅 Next Update
+Planned after Complementary Shaders r5.6 and Euphoria Patches 1.7, expected sometime in October.
