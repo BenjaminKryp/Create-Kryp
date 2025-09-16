@@ -7,7 +7,7 @@ If you update an old world, it will corrupt your saves. Please create a new worl
 
 📝 About This Update
 
-Fixed crash when dying with a cape or loading a corpse with a cape (Entity Model Features downgraded from 2.4.1 → 2.2).
+Fixed crash when dying with a cape or loading a [corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) with a cape ([Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) downgraded from 2.4.1 → 2.2).
 More mobs can now be put into jars and cages.
 New rain visuals and sounds.
 Nights with shaders are darker.
@@ -17,32 +17,32 @@ Sunrises and sunsets are more red/orange.
 
 ➕ Added
 
-Continuity
-Cool Rain Reforged
-DnT Pillager Outpost Overhaul
-Guard Villagers
-Illage and Spillage: Respillaged
-Illage and Spell-age: Iron’s Spells Addon
-Illager Invasion
-Koopa’s Critters
-Mischief Illagers
-Particle Rain
-Sparse Structures
+[Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
+[Cool Rain Reforged](https://www.curseforge.com/minecraft/mc-mods/cool-rain-reforged)
+[DnT Pillager Outpost Overhaul](https://www.curseforge.com/minecraft/mc-mods/dnt-pillager-outpost-overhaul)
+[Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
+[Illage and Spillage: Respillaged](https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage-finally-ported)
+[Illage and Spell-age: Iron’s Spells Addon](https://www.curseforge.com/minecraft/mc-mods/illage-and-spell-age)
+[Illager Invasion](https://www.curseforge.com/minecraft/mc-mods/illager-invasion)
+[Koopa’s Critters](https://www.curseforge.com/minecraft/mc-mods/koopas-critters)
+[Mischief Illagers](https://www.curseforge.com/minecraft/mc-mods/mischief-illagers)
+[Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
+[Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures)
 
 🗑️ Removed
 (Nothing this time)
 
 🔧 Changes
 
-Ice and Fire config:
+[Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) config:
 Dragon Roost chance: 360 → 250
 Dragon Skeleton chance: 300 → 220
-JEI:
+[JEI](https://www.curseforge.com/minecraft/mc-mods/jei):
 Recipes and uses can now be viewed by right-clicking instead of pressing U.
 Shaders:
 Night Time Lighting Intensity Multiplier: 1.00 → 0.25 (much darker with shaders).
 Sunrise/Sunset Red Multiplier: 1.00 → 1.50 (both Light Color + Atmosphere multipliers).
-Supplementaries config:
+[Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) config:
 jar_auto_detect = true
 cage_allow_all_babies = true
 cage_auto_detect = true
