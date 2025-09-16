@@ -1,0 +1,16 @@
+📢 Update v0.0.18
+
+📝 About This Update
+Fixed version number.
+
+➕ Added
+(None this update)
+
+🗑️ Removed
+(None this update)
+
+🔧 Changes
+Changed configs for mods that show versions, like Better Compatibility Checker and Modpack Update Checker to fix wrong version number showing.
+
+📅 Next Update
+Planned after Complementary Shaders r5.6 and Euphoria Patches 1.7, which should release sometime in October.
