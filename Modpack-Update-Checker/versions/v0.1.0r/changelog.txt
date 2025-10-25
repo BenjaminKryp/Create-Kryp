@@ -1,0 +1,40 @@
+📢 Update v0.1.0r
+
+📝 About This Update
+
+Updated [Create](https://www.curseforge.com/minecraft/mc-mods/create) from 0.5.1j → 6.0.6 along with all addons and required mods.
+Updated Forge from 47.4.8 → 47.4.10.
+Fixed menu buttons being off-center.
+
+➕ Added
+
+[AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+[Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix)
+[Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
+[Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel)
+[Colorwheel Patcher](https://www.curseforge.com/minecraft/mc-mods/colorwheel-patcher)
+[Compat Structure](https://www.curseforge.com/minecraft/mc-mods/compat-structure)
+[Create Better FPS](https://www.curseforge.com/minecraft/mc-mods/create-better-fps)
+[Create: Alex’s Caves Compat](https://www.curseforge.com/minecraft/mc-mods/create-alexs-caves-compat)
+[Create: Northstar – Redux](https://www.curseforge.com/minecraft/mc-mods/northstar-redux)
+[Create: Rustic Structures](https://www.curseforge.com/minecraft/mc-mods/create-rustic-structures)
+[Create: Structures Overhaul](https://www.curseforge.com/minecraft/mc-mods/create-structures-overhaul)
+[Create: Structures Overhaul – BOP Integration](https://www.curseforge.com/minecraft/mc-mods/create-structures-overhaul-bop-integration)
+[Create: The Factory Must Grow](https://www.curseforge.com/minecraft/mc-mods/create-industry)
+[Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
+[Neruina](https://www.curseforge.com/minecraft/mc-mods/neruina)
+[Server Performance – Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+[Sophisticated Backpacks Create Integration](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-create-integration)
+[Sophisticated Storage Create Integration](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration)
+
+🗑️ Removed
+
+[Create: Crystal Clear](https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear) (no 6.0.6 update yet)
+[Create: Extended Cogwheels](https://www.curseforge.com/minecraft/mc-mods/create-extended-cogs) (no 6.0.6 update yet)
+[Create: NorthStar](https://www.curseforge.com/minecraft/mc-mods/create-northstar) → replaced with [Create: Northstar – Redux](https://www.curseforge.com/minecraft/mc-mods/northstar-redux)
+[Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat) → replaced with [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel) / [Colorwheel Patcher](https://www.curseforge.com/minecraft/mc-mods/colorwheel-patcher)
+[Particular ✨ Reforged](https://www.curseforge.com/minecraft/mc-mods/particular-reforged) → replaced with [Subtle Effects](https://www.curseforge.com/minecraft/mc-mods/subtle-effects) (same functionality)
+
+🔧 Changes
+
+Disabled shrubs and cloud-spawning in sandstorms (enabled = false, canSpawnAboveClouds = false) in particlerain.json.
