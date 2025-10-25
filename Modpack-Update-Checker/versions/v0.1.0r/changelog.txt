@@ -37,4 +37,4 @@ Fixed menu buttons being off-center.
 
 🔧 Changes
 
-Disabled shrubs and cloud-spawning in sandstorms (enabled = false, canSpawnAboveClouds = false) in particlerain.json.
+Disabled shrubs in sandstorms (enabled = false, canSpawnAboveClouds = false) in particlerain.json.
