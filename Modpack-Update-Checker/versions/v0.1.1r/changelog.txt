@@ -1,0 +1,17 @@
+📢 Update v0.1.1r
+
+📝 About This Update
+Added new shader options for easier use and less confusion.
+Born in Chaos Halloween event active from now until November 7th.
+Performance hotfix for world generation — should fix or reduce world-gen stuttering.
+
+➕ Added
+(None this update)
+
+🗑️ Removed
+(None this update)
+
+🔧 Changes
+Added shader presets: Low, Medium, High, and Ultra.
+Defaults to Medium on launch.
+These are the same shaders as before (for higher-end PCs) but now adjusted based on your selected preset.
