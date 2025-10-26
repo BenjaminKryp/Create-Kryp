@@ -14,4 +14,3 @@ Performance hotfix for world generation — should fix or reduce world-gen stutt
 🔧 Changes
 Added shader presets: Low, Medium, High, and Ultra.
 Defaults to Medium on launch.
-These are the same shaders as before (for higher-end PCs) but now adjusted based on your selected preset.
