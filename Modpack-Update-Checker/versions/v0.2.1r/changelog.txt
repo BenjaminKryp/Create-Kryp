@@ -1,0 +1,21 @@
+📢 Update v0.2.1r
+
+⚠️ Important Notice
+Old worlds may get corrupted due to the changes introduced in v0.2.0r. I haven’t personally encountered crashes yet, but on old worlds the ocean may be laggier and you might notice sharp borders where new ocean chunks generate.
+
+📝 About This Update
+
+Fixed incorrect version number.
+Disabled the FPS HUD that was used for performance testing but accidentally left enabled in v0.2.0r.
+
+➕ Added
+
+(None)
+
+🗑️ Removed
+
+(None)
+
+🔧 Changes
+
+(None)
