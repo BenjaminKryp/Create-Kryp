@@ -1,0 +1,42 @@
+📢 Update v0.2.2r
+
+⚠️ Important Notice
+
+Old worlds may get corrupted due to the changes introduced in v0.2.0r. I haven’t personally encountered crashes yet, but on old worlds the ocean may be laggier and you might notice sharp borders where new ocean chunks generate.
+
+📝 About This Update
+
+Changed max render distance from 53 to 64
+
+Fixed some ice and fire mobs having a error for icon on map.
+
+Fixed some items becoming invisible in hotbar.
+
+Improved fps and fps stability a little bit.
+
+Improved world gen speed by 2x thanks to [FORK] Twilight Forest Thread Safety Addon lets hope no more world gen crashes or i have to revert this
+
+The modpack is now on [Modrinth](https://modrinth.com/modpack/create-kryp).
+
+➕ Added
+
+[[FORK] Twilight Forest Thread Safety Addon](https://www.curseforge.com/minecraft/mc-mods/fork-twilightforest-thread-safety-addon-for-forge)
+
+[IAFCE - XaeroMap Support](https://www.curseforge.com/minecraft/texture-packs/iafce-xaeromap-support)
+
+[Memory Settings](https://www.curseforge.com/minecraft/mc-mods/memory-settings)
+
+🗑️ Removed
+
+[Twilight Forest Cave Fix](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-cave-fix) dosent work with [[FORK] Twilight Forest Thread Safety Addon](https://www.curseforge.com/minecraft/mc-mods/fork-twilightforest-thread-safety-addon-for-forge)
+
+🔧 Config Changes
+c2me.toml
+Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
+allowThreadedFeatures = true from false this increses world gen speed by about 2x.
+
+(Default: 53) Max render distance allowed in game options
+maxViewDistance = 64 from 53.
+
+immediatelyfast.json
+"hud_batching": true, to false this fixes invieble items in hotbar.
