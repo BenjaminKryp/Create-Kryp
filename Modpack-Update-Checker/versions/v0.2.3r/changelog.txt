@@ -4,43 +4,42 @@
 
 📝 About This Update
 
-Abunce of fixes and changes from updating some mods.
+Abundance of fixes and changes from updating some mods.
 
-Big Faunify update with many fixes new stuff and and remodels for most mobs and a cupple new ones to.
+Big Faunify update with many fixes, new stuff, and remodels for most mobs, plus a couple of new ones.
 
-Changed abunce of shader settings to be more colorfull and some other stuff.
 
-Fixed caves generating really small and raviens and cave entrances being really rare.
+Fixed caves generating really small and ravines and cave entrances being really rare.
 
-Fixed crash with waystone.
+Fixed crash with Waystones.
 
-Fixed lag and log spam when looking at some entitys fix for all in future update hopfuly and oil gen lag.
+Fixed lag and log spam when looking at some entities (full fix hopefully in a future update) and oil generation lag.
 
-Fixed Opossum being able to be heard from really far with no sound drop off.
+Fixed opossums being able to be heard from really far away with no sound drop-off.
 
-Fixed pixies particols could be seen even when the pixi it self was no in render distance.
+Fixed pixie particles being visible even when the pixie itself was not in render distance.
 
-Fixed snow spawning in tall pilles and causing alot of lag when generated even in wrong seasons.
+Fixed snow spawning in tall piles and causing a lot of lag when generated, even in wrong seasons.
 
-Fixed some blocks having no sound when you walking on them.
+Fixed some blocks having no sound when you walk on them.
 
-Fixed some entity sounds being heard so long the entity is rendered with no sound drop of if you walk further away.
+Fixed some entity sounds being heard as long as the entity is rendered with no sound drop-off if you walk further away.
 
-Fixed some memory leakes.
+Fixed some memory leaks.
 
 Fixed version being wrong again.
 
-Fixed villages generating wierd and being really rare and other structurse and some other structures.
+Fixed villages generating weirdly and being really rare, along with other structures.
 
-Made it so you see other players on the map no mater where they are.
+Made it so you can see other players on the map no matter where they are.
 
 Reduced memory usage a bit.
 
-Removed 90% ram usage message in chat when ram usege goes to 90%.
+Removed the 90% RAM usage message in chat when RAM usage reaches 90%.
 
-Some blocks/ores/mobs/biomes/etc names are better im stupid and i put [The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp) in data pack insted of resorce pack so now they are more mod compatible and arent the same name for them if they are the same thing its more its a bit diffrent for mod compat.
+Some blocks/ores/mobs/biomes/etc names are better. I accidentally put [The Rename Compat Project](https://www.curseforge.com/minecraft/texture-packs/the-rcp) in a datapack instead of a resource pack, so now they are more mod compatible and don't share the same names if they are slightly different.
 
-Some modded armor trims would make the armor its on look glithed becose im stupid and dident put [Armor Trim Compat](https://www.curseforge.com/minecraft/texture-packs/armor-trim-compats) in resorse pack i put it in datapack im stupid.
+Some modded armor trims made armor look glitched because [Armor Trim Compat](https://www.curseforge.com/minecraft/texture-packs/armor-trim-compats) was put in a datapack instead of a resource pack.
 
 ➕ Added
 
