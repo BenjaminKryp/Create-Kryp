@@ -1,0 +1,46 @@
+📢 Update v0.2.4r
+
+⚠️ Important Notice
+
+📝 About This Update
+
+Added tier upgrade support for more Quark chest types.
+
+Fixed game becoming unresponsive if you die on a server.
+
+If a world/server is lagging it should not look or feel as laggy anymore hopefully.
+
+Made it so you no longer see other players’ icons in the world. It was supposed to only show on the map, now it does.
+
+Potentially fixed lower FPS when not holding anything in the main hand while cosmetics from the Essential Mod are enabled.
+
+Potentially improved world generation speed on slower CPUs.
+
+Tweaked some shader settings a bit.
+
+➕ Added
+
+[Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)
+
+[Loading Protection](https://www.curseforge.com/minecraft/mc-mods/loading-protection)
+
+[Map Distance Fix](https://www.curseforge.com/minecraft/mc-mods/map-distance-fix)
+
+[Smooth Movement](https://www.curseforge.com/minecraft/mc-mods/smooth-movement)
+
+[World Play Time](https://www.curseforge.com/minecraft/mc-mods/world-play-time)
+
+🗑️ Removed
+
+[Ixeris](https://www.curseforge.com/minecraft/mc-mods/ixeris)  caused a white screen where you couldn’t click or move the camera and then sometimes crashed after dying on a server.
+
+🔧 Config Changes
+
+c2me.toml
+
+(Default: 3) Configures the parallelism of global executor
+globalExecutorParallelism = "default" from 6
+
+xaero minimap profiles default.cfg
+
+tracked_players_in_world = false from true
